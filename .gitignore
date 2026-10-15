@@ -1,0 +1,9 @@
+﻿# Dados de alunos (nomes, e-mails, notas, fotos de provas) - nunca publicar
+listas/
+notas/
+# CLAUDE.md tem memoria com nomes de alunos e IDs do Drive
+CLAUDE.md
+# Pautas de listas/provas
+pautas/
+__pycache__/
+*.pyc
